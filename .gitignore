@@ -3,3 +3,9 @@ node_modules/
 .env
 
 *.exe
+
+CSES-Solutions/*.exe
+
+Templates/*.exe
+
+Topic_Wise_(DSA)/*.exe 
